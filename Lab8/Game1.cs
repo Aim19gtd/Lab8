@@ -9,6 +9,7 @@ namespace Lab8
         private GraphicsDeviceManager _graphics;
         private SpriteBatch _spriteBatch;
         float nene;
+        int Aim;
 
         public Game1()
         {
